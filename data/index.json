@@ -1,0 +1,101 @@
+{
+    "about": [
+        "I'm an aspiring front-end developer from Cape Town"
+    ],
+    "education": [
+        {
+            "id": 1,
+            "year": 2020,
+            "description": "I got my Matric certificate",
+            "place": "Rylands High School",
+            "type": "NSC"
+        },
+        {
+            "id": 2,
+            "year": "current",
+            "description": "Currently studying web developmnt",
+            "place": "Life Choices Coding Academy",
+            "type": "certificate"
+        }
+    ],
+    "skills": [
+        {
+            "title": "HTML"
+           
+        },
+        {
+            "title": "CSS 3"
+           
+        },
+        {
+            "title": "Bootstrap 5"
+            
+        },
+        {
+            "title": "Javascript"
+           
+        }
+    ],
+    "testimonials": [
+        {
+            "name": "Joel",
+            "surname": "Mukanya",
+            "quotes": "I do have the pleasure of being Aneeqa Louw's Lecturer, a creative, well-behaved, and dedicated individual who enjoys collaborating with her peers and excels in her projects. She has acquired a diverse set of skills, including HTML, CSS 3, and Bootstrap 5. I wholeheartedly recommend Aneeqa as a strong candidate and wish her the very best in her future endeavors.",
+            "profile": "#"
+        },
+        {
+            "name": "Haanim",
+            "surname": "Pietersen",
+            "quotes": "Aneeqa Louw is a hardworking student who has an amazing personality. She is a great person to ask for help or opinions on your things. She is great at designing and making things look really cute and cool. I would recommend Aneeqa as someone you would need if you would want a cool and attention grabbing website.",
+            "profile": "#"
+        },
+        {
+            "name": "Eighton-Lee",
+            "surname": "Paulse",
+            "quotes": "Aneeqa is an exceptionally passionate individual with an extraordinary talent for design thinking. Her work has consistently left me in awe, and I am genuinely excited to witness her future endeavors. I wholeheartedly recommend her to any company in search of a highly skilled developer.",
+            "profile": "#"
+        },
+        {
+            "name": "Chrishano",
+            "surname": "Burns",
+            "quotes": "Aneeqa is such an awesome to be around with. She uplifts everyone to do better and is very helpful as she is such a youthful determined kind-hearted human. She inspires a lot of us to do better and to be better.",
+            "profile": "#"
+        },
+        {
+            "name": "Kelsey Chloe",
+            "surname": "Oosthuizen",
+            "quotes": "Aneeqa Louw is a great person with an amazing personality. She's kind, grounded and diligent. I would highly recommend her if you are looking for someone that works well with designing websites and helping it gain loads of attention from all crowds.",
+            "profile": "#"
+        }
+    ],
+    "projects":[
+        {
+            "name": "Mr Egg",
+            "description": "e-Commerce website built with HTML, CSS and bootstrap",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "Calculator",
+            "description": "Calculator app, and I built it using HTML 5 and CSS 3",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "Keyboard",
+            "description": "An eCommerce site built using HTML 5, CSS, Javascript, and Bootstrap 5",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        },
+        {
+            "name": "BS Portfolio",
+            "description": "My personal portfolio made using HTML 5, CSS and Bootstrap I am using JS to display my dynamic content.",
+            "image": "#",
+            "gitHub": "#",
+            "netlify": "#"
+        }
+    ]
+}
